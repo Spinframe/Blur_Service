@@ -1,0 +1,2 @@
+opencv_python==4.3.0.36
+protobuf==3.19.3
